@@ -12,11 +12,11 @@ To get started with Flavor Fusion, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/flavor-fusion.git
+   git clone <url>
    ```
 2. **Navigate to the Project Directory:**
    ```
-   cd flavor-fusion
+   cd fusion-food
    ```
 3. **Install Dependencies:**
    ```
